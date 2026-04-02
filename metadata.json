@@ -1,0 +1,5 @@
+{
+  "name": "AI Traditional Dress Try-On",
+  "description": "Capture a photo and virtually try on traditional Indian dresses (Himachal, Rajasthani, Punjabi) using AI.",
+  "requestFramePermissions": ["camera"]
+}
